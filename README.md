@@ -19,3 +19,8 @@ Marc ̧al Rusi  ̃nol∗†, Tayeb Benkhelfallah∗ and Vincent Poulain d’Ande
 
 Information extraction by finding repeated structure
 Evgeniy Bart,Prateek Sarkar
+
+
+The_T-Recs_Table_Recognition_and_Analysis_System
+https://www.researchgate.net/publication/220933063_The_T-Recs_Table_Recognition_and_Analysis_System/link/0fcfd508786a4c7a4e000000/download
+Thomas Kieninger,Andreas Dengel
