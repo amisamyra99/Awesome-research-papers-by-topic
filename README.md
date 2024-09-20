@@ -1,4 +1,5 @@
 # Awesome-research-papers-by-topic
+
 ## Document analysis
 -DICE: graph mining-based document information content
 exploitation
@@ -24,3 +25,8 @@ Evgeniy Bart,Prateek Sarkar
 The_T-Recs_Table_Recognition_and_Analysis_System
 https://www.researchgate.net/publication/220933063_The_T-Recs_Table_Recognition_and_Analysis_System/link/0fcfd508786a4c7a4e000000/download
 Thomas Kieninger,Andreas Dengel
+
+
+## socioeconomic Topics
+🧠 **Can a growth mindset bridge the socioeconomic achievement gap?** 🇨🇱
+https://www.pnas.org/doi/pdf/10.1073/pnas.1608207113
